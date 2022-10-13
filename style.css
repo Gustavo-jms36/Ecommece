@@ -278,3 +278,19 @@ footer {
     }
 }
 
+@media (max-width: 967px) {
+    .container {
+        max-width: 800px;
+    }
+    
+}
+
+@media (max-width: 790px) {
+    .container {
+        max-width: 500px;
+    }
+    
+}
+
+
+
